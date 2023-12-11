@@ -13,4 +13,4 @@ courier thanks to the Observer design pattern. In the couriers windows you will 
 streets present in the database. Selecting one of these streets will allow couriers to see only packages for the
 selected street. 
 
-## Run main.cpp to get started!
+## Run main.cpp to get started (you need to have Qt installed)
