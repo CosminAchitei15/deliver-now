@@ -1,0 +1,6 @@
+Traian Lombului 18 false
+Yuri Gabor 1 false
+Iacob Sfatului 10 false
+Vasile Bucuresti 12 false
+Ion Lombului 10 false
+Manny Sfatului 10 true

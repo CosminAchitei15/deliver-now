@@ -1,0 +1,2 @@
+a,10,Lombului,Sfatului
+b,20,Crisului,Bucuresti,Gabor
