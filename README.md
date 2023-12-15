@@ -1,5 +1,5 @@
 # Deliver Now
-A project made during my "Object Orriented Programming" class using C++, Qt, file read-write opperations,
+A project made during my "Object Oriented Programming" class using C++, Qt, file read-write opperations,
 OOP principles and the Observer design pattern.
 
 ## What can it do?
